@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/AuthContentComponent-CQIRu05K.js","assets/index-olFGXpST.js","assets/index-B3QMPXKX.css"])))=>i.map(i=>d[i]);
-import{o,d as t,u as n,e as _,_ as s}from"./index-olFGXpST.js";const p={__name:"RegisterView",setup(a){const e=_(()=>s(()=>import("./AuthContentComponent-CQIRu05K.js"),__vite__mapDeps([0,1,2])));return(r,c)=>(o(),t(n(e),{isLoginPage:!1}))}};export{p as default};

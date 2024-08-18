@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/BottomNavbarComponent-BayOqFJP.js","assets/index-F5-PLuqt.js","assets/index-BREC9Syt.css","assets/BottomNavbarComponent-wdwfTo6V.css"])))=>i.map(i=>d[i]);
+import{o,c as t,b as a,u as s,a as _,e as n,_ as r}from"./index-F5-PLuqt.js";const c={class:"flex flex-col"},p=_("p",null,"Report View",-1),u={__name:"ReportView",setup(i){const e=n(()=>r(()=>import("./BottomNavbarComponent-BayOqFJP.js"),__vite__mapDeps([0,1,2,3])));return(l,d)=>(o(),t("div",c,[a(s(e)),p]))}};export{u as default};
