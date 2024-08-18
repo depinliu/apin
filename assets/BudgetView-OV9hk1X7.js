@@ -1,1 +1,0 @@
-import{j as e,o as t,c,a as o}from"./index-DkbS3mnJ.js";const s={},n={class:"flex flex-col"},_=o("p",null,"Buget View",-1),a=[_];function r(l,d){return t(),c("div",n,a)}const f=e(s,[["render",r]]);export{f as default};
