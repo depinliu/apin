@@ -1,0 +1,1 @@
+import{o as e,c as o,a as t}from"./index-DkbS3mnJ.js";const s={class:"flex flex-col"},c=t("p",null,"Report View",-1),_=[c],p={__name:"ReportView",setup(a){return(r,n)=>(e(),o("div",s,_))}};export{p as default};

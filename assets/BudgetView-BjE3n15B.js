@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/BottomNavbarComponent-BayOqFJP.js","assets/index-F5-PLuqt.js","assets/index-BREC9Syt.css","assets/BottomNavbarComponent-wdwfTo6V.css"])))=>i.map(i=>d[i]);
-import{o,c as t,b as a,u as s,a as _,e as n,_ as c}from"./index-F5-PLuqt.js";const r={class:"flex flex-col"},i=_("p",null,"Buget View",-1),m={__name:"BudgetView",setup(l){const e=n(()=>c(()=>import("./BottomNavbarComponent-BayOqFJP.js"),__vite__mapDeps([0,1,2,3])));return(d,p)=>(o(),t("div",r,[a(s(e)),i]))}};export{m as default};
