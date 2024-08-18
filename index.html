@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" href="/logo.jpg" type="image/x-icon" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>APIN Budgeting</title>
+  <meta name="description" content="APIN Budgeting Database" />
+  <meta http-equiv="content-language" content="In-Id" />
+  <meta name="geo.country" content="id" />
+  <meta name="geo.placename" content="Indonesia" />
+  <meta name="theme-color" content="#FFB3CD" />
+
+  <link rel="apple-touch-icon" href="/favicon/icon-192x192.png" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+  <!-- <meta http-equiv="Cache-Control" content="no-store" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" /> -->
+
+  <style>
+    [v-cloak]>* {
+      display: none;
+    }
+
+    #body {
+      margin: 0;
+    }
+
+    #loading__container {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      text-align: center;
+      color: #fff;
+      background: #FBEDEC;
+      text-transform: uppercase;
+      font-family: Arial, sans-serif;
+      font-size: 10px;
+      letter-spacing: 2px;
+    }
+
+    .preloader {
+      margin: 0 auto;
+    }
+
+    .lds-ellipsis {
+      display: inline-block;
+      position: relative;
+      width: 80px;
+      height: 80px;
+    }
+
+    .lds-ellipsis div {
+      position: absolute;
+      top: 33px;
+      width: 13px;
+      height: 13px;
+      border-radius: 50%;
+      background: #F71A46;
+      animation-timing-function: cubic-bezier(0, 1, 1, 0);
+    }
+
+    .lds-ellipsis div:nth-child(1) {
+      left: 8px;
+      animation: lds-ellipsis1 0.6s infinite;
+    }
+
+    .lds-ellipsis div:nth-child(2) {
+      left: 8px;
+      animation: lds-ellipsis2 0.6s infinite;
+    }
+
+    .lds-ellipsis div:nth-child(3) {
+      left: 32px;
+      animation: lds-ellipsis2 0.6s infinite;
+    }
+
+    .lds-ellipsis div:nth-child(4) {
+      left: 56px;
+      animation: lds-ellipsis3 0.6s infinite;
+    }
+
+    @keyframes lds-ellipsis1 {
+      0% {
+        transform: scale(0);
+      }
+
+      100% {
+        transform: scale(1);
+      }
+    }
+
+    @keyframes lds-ellipsis3 {
+      0% {
+        transform: scale(1);
+      }
+
+      100% {
+        transform: scale(0);
+      }
+    }
+
+    @keyframes lds-ellipsis2 {
+      0% {
+        transform: translate(0, 0);
+      }
+
+      100% {
+        transform: translate(24px, 0);
+      }
+    }
+  </style>
+  <script type="module" crossorigin src="/assets/index-olFGXpST.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-B3QMPXKX.css">
+<link rel="manifest" href="/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/registerSW.js"></script></head>
+
+<body id="body">
+  <div id="app" v-cloak>
+    <div id="loading__container">
+      <div class="preloader">
+        <img src="/assets/logo-DcGu_ner.jpg" width="150" />
+        <br />
+        <div class="lds-ellipsis">
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
