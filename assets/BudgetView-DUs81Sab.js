@@ -1,0 +1,1 @@
+import{i as e,c as t,o as a,a as c}from"./index--hG1mAw5.js";const o={},s={class:"flex flex-col animate__animated animate__fadeIn"},n=c("p",null,"Buget View",-1),_=[n];function i(r,d){return a(),t("div",s,_)}const f=e(o,[["render",i]]);export{f as default};
