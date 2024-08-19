@@ -1,1 +1,0 @@
-import{i as e,c as t,o as a,a as o}from"./index-Clbh7sEY.js";const s={},c={class:"flex flex-col animate__animated animate__fadeIn p-4"},n=o("p",{class:"text-xl font-bold"},"Buget View",-1),_=[n];function i(d,r){return a(),t("div",c,_)}const f=e(s,[["render",i]]);export{f as default};
