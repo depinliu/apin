@@ -1,0 +1,1 @@
+import{c as e,o as t,a}from"./index--hG1mAw5.js";const o={class:"flex flex-col animate__animated animate__fadeIn"},_=a("p",null,"Report View",-1),s=[_],l={__name:"ReportView",setup(c){return(n,r)=>(t(),e("div",o,s))}};export{l as default};
