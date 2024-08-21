@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/AuthContentComponent-A7bbewHb.js","assets/index-Boz_6IjS.js","assets/index-h9VtKMMu.css"])))=>i.map(i=>d[i]);
-import{d as o,u as t,o as n,e as _,_ as r}from"./index-Boz_6IjS.js";const p={__name:"LoginView",setup(a){const e=_(()=>r(()=>import("./AuthContentComponent-A7bbewHb.js"),__vite__mapDeps([0,1,2])));return(s,c)=>(n(),o(t(e),{isLoginPage:!0}))}};export{p as default};
